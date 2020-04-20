@@ -1,6 +1,5 @@
 import { UserActionTypes } from "./user.types";
 
-
 const INTIAL_STATE = {
   currentUser: null,
 };
